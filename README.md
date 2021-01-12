@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Thibault Mattera's Projects
+
+# Project 1: Recommendation System for Restaurants
+
+![](/images/Screenshot1.png)
+
 
 You can use the [editor on GitHub](https://github.com/Thib-Matt/My_Portfolio_Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
