@@ -1,6 +1,6 @@
 ## Thibault Mattera's Projects
 
-# Project 1: Recommendation System for Restaurants
+## [Project 1: Recommendation System for Restaurants](https://github.com/Thib-Matt/Recommendation_System_Zurich_Restaurants.git)
 
 ![](/images/Screenshot1.PNG)
 
@@ -8,7 +8,7 @@ You can use the [editor on GitHub](https://github.com/Thib-Matt/My_Portfolio_Web
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# Project 2: COVID-related Articles Finder
+## [Project 2: COVID-related Articles Finder](https://github.com/Thib-Matt/COVID-Relevant_Articles-Finder.git)
 
 ![](/images/Screenshot2.PNG)
 
