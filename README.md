@@ -2,8 +2,7 @@
 
 # Project 1: Recommendation System for Restaurants
 
-![](/images/Screenshot1.PNG | width=150)
-
+![](/images/Screenshot1.PNG|width=150)
 
 You can use the [editor on GitHub](https://github.com/Thib-Matt/My_Portfolio_Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
