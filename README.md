@@ -4,13 +4,13 @@
 
 ![](/images/Screenshot1.PNG)
 
-You can use the [editor on GitHub](https://github.com/Thib-Matt/My_Portfolio_Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/Thibault-Mattera/My_Portfolio_Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## [Project 2: COVID-related Articles Finder](https://github.com/Thib-Matt/COVID-Relevant_Articles-Finder.git)
+## [Project 2: COVID-related Articles Finder](https://github.com/Thibault-Mattera/COVID-Relevant_Articles-Finder.git)
 
-![](/images/Screenshot2.PNG)
+![](/images/covid-app-demo.gif)
 
 
 ### Markdown
