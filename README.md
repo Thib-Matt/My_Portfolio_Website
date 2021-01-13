@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## [Project 2: COVID-related Articles Finder](https://github.com/Thibault-Mattera/COVID-Relevant_Articles-Finder.git)
 
-![](/images/covid-app-demo.gif)
+![](/images/Screenshot2.PNG)
 
 
 ### Markdown
