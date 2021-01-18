@@ -2,7 +2,7 @@
 
 ## [Project 1: Recommendation System for Restaurants](https://github.com/Thib-Matt/Recommendation_System_Zurich_Restaurants.git)
 
-![](/images/Screenshot1.PNG)
+![](/images/Screenshot_updated.PNG)
 
 You can use the [editor on GitHub](https://github.com/Thibault-Mattera/My_Portfolio_Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
