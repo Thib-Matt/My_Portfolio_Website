@@ -12,3 +12,4 @@ The project consisted in creating a tool that proposes a personalized list of re
 
 <img src="/images/demo-recommendation-system.gif" width="900">
 
+![](/images/demo-recommendation-system.gif)
