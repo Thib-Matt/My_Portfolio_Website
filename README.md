@@ -10,6 +10,4 @@ The project consisted in creating a tool that proposes a personalized list of re
 - Built profiles' clusters based on an unspervised learning algorithm (K-means)
 - Productionized the solution: created a web-app connected to a Flask API
 
-<img src="/images/demo-recommendation-system.gif" width="900">
-
 ![](/images/demo-recommendation-system.gif)
