@@ -10,10 +10,5 @@ The project consisted in creating a tool that proposes a personalized list of re
 - Built profiles' clusters based on an unspervised learning algorithm (K-means)
 - Productionized the solution: created a web-app connected to a Flask API
 
-<img src="/images/Screenshot_updated.PNG" width="900">
-
-## [Project 2: COVID-related Articles Finder](https://github.com/Thibault-Mattera/COVID-Relevant_Articles-Finder.git)
-
-<img src="/images/covid-app-demo.gif" width="900">
-
+<img src="/images/demo-recommendation-system.gif" width="900">
 
