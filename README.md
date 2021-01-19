@@ -7,7 +7,7 @@ In a world where the large commercial offer is overwhelming us, online reviews h
 The project consisted in creating a tool that proposes a personalized list of restaurants based on users profiles.
 - Scraped around 1800 restaurants and 1900 reviewers' profiles from TripAdvisor using Python and Selenium
 - Engineered features from restaurants' description to extract usable information (type of cuisine, price range and popularity)
-- Built profiles' clusters based on an unspervised learning algorithm (K-means)
+- Built profiles' clusters based on an unspervised learning algorithm
 - Productionized the solution: created a web-app connected to a Flask API
 
 ![](/images/demo-recommendation-system.gif)
