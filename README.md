@@ -1,4 +1,4 @@
-## My personal projects
+## My Projects
 
 ## [Project 1: Recommendation System for Restaurants](https://github.com/Thib-Matt/Recommendation_System_Zurich_Restaurants.git)
 
