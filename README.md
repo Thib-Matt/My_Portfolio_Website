@@ -24,3 +24,4 @@ The project consisted in:
 
 This could help the medical community by generating new insights among over 400k academic articles.
 
+![](/images/covid-app-demo.gif)
