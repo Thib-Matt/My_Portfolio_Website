@@ -30,4 +30,4 @@ This could help the medical community by generating new insights among over 400k
 
 
 :-------------------------:|:-------------------------:
-![](../Disaster_Tweet_Detector/figures/word_cloud_disaster_tweets.png)  |  ![](../Disaster_Tweet_Detector/figures/performance_BERT.png)
+![](/images/word_cloud_disaster_tweets.png)  |  ![](/images/performance_BERT.png)
