@@ -28,6 +28,13 @@ This could help the medical community by generating new insights among over 400k
 
 ## [Project 3: Disaster Tweet Detector](https://github.com/Thib-Matt/Disaster_Tweet_Detector.git)
 
+Twitter has become an important communication channel in times of emergency as it gives near real-time information. But the task to recognize if a tweet is clearly related to a real disaster is tricky and time-consuming.
+
+I built a solution based on Machine Learning (Supervised Learning) that can identify if a tweet is related to a real disaster or not. This could help emergency services to automatically monitor Twitter to detect disasters with a better accuracy and deploy the resources more effectively.
+
+After preprocessing and vectorizing the tweets, I was able to predict a real disaster tweet with 88% accuracy. 
+This was obtained after preprocessing the tweets (cleaning, NLP, vectorizing) and using a BERT-based model.
+
 Word cloud disaster tweets        |  Model performance
 :-------------------------:|:-------------------------:
 ![](/images/word_cloud_disaster_tweets_resized.png))  |  ![](/images/performance_BERT_resized.png)
