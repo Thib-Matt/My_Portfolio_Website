@@ -1,4 +1,9 @@
-## My Projects
+## Contact
+
+Mail: thibault.mattera@gmail-com  
+[LinkedIn](https://www.linkedin.com/in/thibaultmattera/)
+
+# My Projects
 
 ## [Project 1: Recommendation System for Restaurants](https://github.com/Thibault-Mattera/Recommendation_System_Zurich_Restaurants.git)
 
