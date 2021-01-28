@@ -28,6 +28,6 @@ This could help the medical community by generating new insights among over 400k
 
 ## [Project 3: Disaster Tweet Detector](https://github.com/Thib-Matt/Disaster_Tweet_Detector.git)
 
-
+                           |  
 :-------------------------:|:-------------------------:
 ![](/images/word_cloud_disaster_tweets_resized.png)  |  ![](/images/performance_BERT.png)
