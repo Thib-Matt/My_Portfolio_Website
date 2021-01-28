@@ -25,3 +25,9 @@ The project consisted in:
 This could help the medical community by generating new insights among over 400k academic articles.
 
 ![](/images/covid-app-demo.gif)
+
+## [Project 3: Disaster Tweet Detector](https://github.com/Thib-Matt/Disaster_Tweet_Detector.git)
+
+
+:-------------------------:|:-------------------------:
+![](/figures/word_cloud_disaster_tweets.png)  |  ![](/figures/performance_BERT.png)
