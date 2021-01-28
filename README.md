@@ -1,6 +1,6 @@
 ## Contact
 
-Mail: thibault.mattera@gmail-com  
+*email*: thibault.mattera@gmail-com  
 [LinkedIn](https://www.linkedin.com/in/thibaultmattera/)
 
 # My Projects
