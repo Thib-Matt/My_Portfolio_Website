@@ -1,6 +1,6 @@
 ## My Projects
 
-## [Project 1: Recommendation System for Restaurants](https://github.com/Thib-Matt/Recommendation_System_Zurich_Restaurants.git)
+## [Project 1: Recommendation System for Restaurants](https://github.com/Thibault-Mattera/Recommendation_System_Zurich_Restaurants.git)
 
 In a world where the large commercial offer is overwhelming us, online reviews have a significant impact on customers' decision.
 
@@ -12,7 +12,7 @@ The project consisted in creating a tool that proposes a personalized list of re
 
 ![](/images/demo-recommendation-system.gif)
 
-## [Project 2: COVID-19 Relevant Articles Finder](https://github.com/Thib-Matt/Recommendation_System_Zurich_Restaurants.git)
+## [Project 2: COVID-19 Relevant Articles Finder](https://github.com/Thibault-Mattera/Recommendation_System_Zurich_Restaurants.git)
 
 To answer the call to action to leverage our expertise as Data Scientists and developers in the fight against COVID-19, we created a smart search engine that suggests relevant academic articles related to coronavirus based on user's specific request. 
 
@@ -26,7 +26,7 @@ This could help the medical community by generating new insights among over 400k
 
 ![](/images/covid-app-demo.gif)
 
-## [Project 3: Disaster Tweet Detector](https://github.com/Thib-Matt/Disaster_Tweet_Detector.git)
+## [Project 3: Disaster Tweet Detector](https://github.com/Thibault-Mattera/Disaster_Tweet_Detector)
 
 Twitter has become an important communication channel in times of emergency as it gives near real-time information. But the task to recognize if a tweet is clearly related to a real disaster is tricky and time-consuming.
 
