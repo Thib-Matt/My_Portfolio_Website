@@ -12,7 +12,7 @@ The project consisted in creating a tool that proposes a personalized list of re
 
 ![](/images/demo-recommendation-system.gif)
 
-## [Project 2: COVID-19 Relevant Articles Finder](https://github.com/Thibault-Mattera/Recommendation_System_Zurich_Restaurants.git)
+## [Project 2: COVID-19 Relevant Articles Finder](https://github.com/Thibault-Mattera/COVID-Relevant_Articles-Finder.git)
 
 To answer the call to action to leverage our expertise as Data Scientists and developers in the fight against COVID-19, we created a smart search engine that suggests relevant academic articles related to coronavirus based on user's specific request. 
 
