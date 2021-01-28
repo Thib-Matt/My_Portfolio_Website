@@ -35,6 +35,6 @@ I built a solution based on Machine Learning (Supervised Learning) that can iden
 After trying different methods (Classifiers and Neural Networks), I was able to predict a real disaster tweet with 88% accuracy. 
 This was obtained after preprocessing the tweets (cleaning, NLP, vectorizing) and using a BERT-based model.
 
-Word cloud disaster tweets        |  Model performance
+Word cloud disaster tweets |  Model performance
 :-------------------------:|:-------------------------:
 ![](/images/word_cloud_disaster_tweets_resized.png)  |  ![](/images/performance_BERT_resized.png)
