@@ -30,4 +30,4 @@ This could help the medical community by generating new insights among over 400k
 
 Word cloud disaster tweets        |  Model performance
 :-------------------------:|:-------------------------:
-![](/images/word_cloud_disaster_tweets_resized.png))  |  ![](/images/performance_BERT.png)
+![](/images/word_cloud_disaster_tweets_resized.png))  |  ![](/images/performance_BERT_resized.png)
