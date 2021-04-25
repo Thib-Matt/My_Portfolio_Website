@@ -5,7 +5,7 @@ thibault.mattera@gmail.com
 
 # My Projects
 
-## [Project 1: Recommendation System for Restaurants](https://github.com/Thibault-Mattera/Recommendation_System_Zurich_Restaurants.git)
+## [Project 1: Recommendation System for Restaurants](https://github.com/Thibault-Mattera/Recommendation_System_Restaurants.git)
 
 In a world where the large commercial offer is overwhelming us, online reviews have a significant impact on customers' decision.
 
