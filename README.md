@@ -3,7 +3,7 @@
 thibault.mattera@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/thibaultmattera/)
 
-# My Projects
+# Projects
 
 ## [Project 1: Recommendation System for Restaurants](https://github.com/Thibault-Mattera/Recommendation_System_Restaurants.git)
 
